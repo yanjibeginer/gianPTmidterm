@@ -35,9 +35,9 @@
             // lblStatus
             // 
             this.lblStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblStatus.Location = new System.Drawing.Point(107, 52);
+            this.lblStatus.Location = new System.Drawing.Point(80, 51);
             this.lblStatus.Name = "lblStatus";
-            this.lblStatus.Size = new System.Drawing.Size(102, 31);
+            this.lblStatus.Size = new System.Drawing.Size(159, 31);
             this.lblStatus.TabIndex = 0;
             this.lblStatus.Text = "-Thread Start-";
             this.lblStatus.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
